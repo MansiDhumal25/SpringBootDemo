@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;practise.springboot.topic&apos; to &apos;springboot&apos;&#x0A;- Original project: &apos;practise.springboot&apos;&#x0A;- Destination element: &apos;springboot&apos;&#x0A;- Original element: &apos;practise.springboot/src/main/java/practise.springboot.topic&apos;" description="Copy package" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;practise.springboot.topic" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1617266975884" target="/course-api-data/src/main/java/practise/springboot" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package practise.springboot;
+import org.springframework.bo
+import org.springframework.core.SpringVersion;
+
+@SpringBootApplication
+public class CourseApiApp {
+
+	public static void main(String[] args) {
+		SpringVersion.run(CourseApiApp.class,args)
+
+	}
+
+}
