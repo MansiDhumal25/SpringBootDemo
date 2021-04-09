@@ -32,7 +32,6 @@ public class TopicService {
 		topicRepository.save(topic);
 			}
 	
-
 	public void deleteTopic(String id) {
 		topicRepository.deleteById(id);;
 	}

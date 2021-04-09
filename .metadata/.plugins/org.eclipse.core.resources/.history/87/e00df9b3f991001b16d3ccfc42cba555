@@ -1,5 +1,0 @@
-package practise.springboot;
-
-public @interface SpringBootApplication {
-
-}
